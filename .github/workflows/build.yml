@@ -49,4 +49,3 @@ jobs:
 
     - name: Skip DB service (no Dockerfile)
       run: echo "DB service uses external image - skipping build"
-EOF
